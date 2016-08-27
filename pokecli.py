@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-pgoapi - Pokemon Go API
+pgoapi - Pokemon Go APItest
 Copyright (c) 2016 tjado <https://github.com/tejado>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
