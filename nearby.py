@@ -43,13 +43,7 @@ from pgoapi import utilities as util
 
 log = logging.getLogger(__name__)
 
-class Config:
-    auth_service
-    username
-    password
-    location
-    debug
-    test
+class Config(object)
 
 def init_config():
 
